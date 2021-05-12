@@ -1,0 +1,2 @@
+underreporting_cases	underreporting_deaths	ifr
+180.13026004465144	27.262855715344237	7.257996580893912e-4
